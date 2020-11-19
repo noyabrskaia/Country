@@ -1,0 +1,31 @@
+#button { 
+    background: #73A353;
+    color: #fff;
+    border: none;
+    outline: none;
+    padding: 0.5rem 1rem; 
+    font-size: 14pt; 
+    }
+#input {
+    padding: 0.5rem 1rem;
+   }
+ #alert {
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    padding: 0.5rem 0.5rem;
+    border: 3px solid #fa5f05;
+    border-radius: 10px;
+    color: #ec110a;
+    margin-bottom: 1rem;
+   
+    }
+ .red {
+    color: #ec110a;
+ }
+ li {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    height: 30px;
+}
